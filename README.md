@@ -4,8 +4,8 @@
 
 Cloud Recipe Finder is a web-based application designed to help users discover recipes based on ingredients they already have at home. The goal is to simplify meal planning by providing quick, relevant recipe suggestions along with cooking instructions, images, and nutritional information.
 
-This project is being developed as a cloud-based full-stack application, integrating modern web development practices with scalable cloud infrastructure.
-Demo video : https://youtu.be/7rXrD1vYC80
+This project was developed by me as a cloud-based full-stack application, integrating modern web development practices with scalable cloud infrastructure.
+Demo video can be found here: https://youtu.be/7rXrD1vYC80
 
 ---
 
@@ -52,7 +52,7 @@ Many people struggle with deciding what to cook using the ingredients they alrea
 
 ---
 
-## 🧠 APIs Used
+## APIs Used
 
 The application integrates with external recipe API:
 
